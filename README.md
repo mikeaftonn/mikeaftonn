@@ -1,3 +1,6 @@
+
+
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vpgggqrkebdc6rl5w2fbisqspq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=4a1581&bar_color_cover=false">
@@ -9,3 +12,7 @@
 
 <p align="center">
 $\texttt{\color{#4a1581} So do I look like him?}$
+
+
+
+
