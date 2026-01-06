@@ -12,7 +12,5 @@
 
 <p align="center">
 $\texttt{\color{#4a1581} So do I look like him?}$
-
-
-
+  
 
