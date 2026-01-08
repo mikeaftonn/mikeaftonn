@@ -2,7 +2,7 @@
 <img width="1140" height="213" alt="image" src="https://github.com/user-attachments/assets/d8700f90-ae05-4846-9476-01fec37e0611" />
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=lonely-lovee&label=victims&base=1229&style=flat-square&color=6f1220)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=lonely-lovee&label=victims&base=1229&style=flat-square&color=6f1220)
 
 <p align="center">
 $\texttt{\color{#6f1220} “Something is wrong with me."}$
