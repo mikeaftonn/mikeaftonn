@@ -12,3 +12,4 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="536" height="457" alt="image" src="https://github.com/user-attachments/assets/c075f3e5-f492-44ea-9e2c-f4fdcdf1b0bf" />
 
 
+[straw](https://michael-afton.straw.page)ㅤㅤ[♡](https://an-undeniably-canon-fnaf-timeline.fandom.com/wiki/Michael_Afton)
